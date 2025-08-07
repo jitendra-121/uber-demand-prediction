@@ -298,7 +298,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - NYC Taxi and Limousine Commission for providing the dataset
 - DagHub for MLflow hosting and model registry
-- Campus X for project guidance and support
 - The open-source community for the amazing tools and libraries
 
 ## Contact
