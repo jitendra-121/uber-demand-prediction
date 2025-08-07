@@ -62,7 +62,7 @@ Data Sources -> Data Processing -> Feature Engineering -> Model Training -> Mode
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/uber-demand-prediction.git
+git clone https://github.com/jitendra-121/uber-demand-prediction.git
 cd uber-demand-prediction
 ```
 
